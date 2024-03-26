@@ -13,6 +13,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/saifali1035](https://github.com/saifali1035)
 
 - 📫 How to reach me **saifaliali1035@gmail.com**
+  
+- ⚡ Fun fact **In The Office (US) Rainn Wilson, who played Dwight Schrute, initially auditioned for the role of Michael Scott**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
