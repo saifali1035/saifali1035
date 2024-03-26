@@ -25,6 +25,7 @@
 </p>
 
 <h3 align="left">Previous Organisations:</h3>
+
 - 💼 **Cognizant** ( 2022 - 2024 )
 <hr/>
 <p align="left" style = "font-size:8px"> 
