@@ -17,9 +17,10 @@
 - ⚡ Fun fact **The original name for the search engine Google was Backrub.**
 
 <h3 align="left">Previous Organisations:</h3>
-<p align="left">
-- Wipro ( 2018 - 2022 )
+
+- 💼 Wipro ( 2018 - 2022 )
 <hr/>
+<p align="left">
 Comprehensive Linux Expertise:
 Demonstrated mastery in various Linux environments, including AIX, HPUX, RHEL, Ubuntu, and CentOS.
 Applied robust shell scripting techniques for automation and efficiency in diverse projects.
