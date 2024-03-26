@@ -16,6 +16,36 @@
   
 - ⚡ Fun fact **The original name for the search engine Google was Backrub.**
 
+<h3 align="left">Previous Organisations:</h3>
+<p align="left">
+- Wipro ( 2018 - 2022 )
+Comprehensive Linux Expertise:
+Demonstrated mastery in various Linux environments, including AIX, HPUX, RHEL, Ubuntu, and CentOS.
+Applied robust shell scripting techniques for automation and efficiency in diverse projects.
+
+Database Administration - DB2 and Oracle:
+Administered and maintained DB2 and Oracle databases, ensuring optimal performance and reliability.
+
+Infrastructure Design & Cloud Management in AWS:
+Orchestrated Virtual Private Clouds (VPCs), configured Subnets, optimized Auto Scaling Groups (ASG), and managed EC2 instances.
+Implemented secure outbound internet access with Network Address Translation (NAT) gateways.
+Expertise in Load Balancing, EC2 Management, Object Storage with S3, and Serverless Computing with Lambda.
+
+Jenkins CI/CD Pipelines & Automation:
+Implemented declarative pipelines, utilizing shared libraries for code modularization, ensuring consistency and efficiency across projects.
+Deployed and managed custom Jenkins agents for project-specific requirements, ensuring optimal build and deployment environments.
+
+Code Collaboration & Quality Assurance:
+Implemented Git & Bitbucket for version control and SonarQube for continuous code quality inspection.
+
+Artifact Management & Distribution with JFrog:
+Utilized JFrog for efficient storage, versioning, and distribution of artifacts.
+
+Continuous Learning & Innovation:
+Stayed updated on industry trends, integrating new technologies for enhanced DevOps practices.
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saif_ali1035" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
