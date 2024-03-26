@@ -24,25 +24,25 @@ Comprehensive Linux Expertise: </br>
 Demonstrated mastery in various Linux environments, including AIX, HPUX, RHEL, Ubuntu, and CentOS.
 Applied robust shell scripting techniques for automation and efficiency in diverse projects.
 
-Database Administration - DB2 and Oracle:
+Database Administration - DB2 and Oracle: </br>
 Administered and maintained DB2 and Oracle databases, ensuring optimal performance and reliability.
 
-Infrastructure Design & Cloud Management in AWS:
+Infrastructure Design & Cloud Management in AWS: </br>
 Orchestrated Virtual Private Clouds (VPCs), configured Subnets, optimized Auto Scaling Groups (ASG), and managed EC2 instances.
 Implemented secure outbound internet access with Network Address Translation (NAT) gateways.
 Expertise in Load Balancing, EC2 Management, Object Storage with S3, and Serverless Computing with Lambda.
 
-Jenkins CI/CD Pipelines & Automation:
+Jenkins CI/CD Pipelines & Automation: </br>
 Implemented declarative pipelines, utilizing shared libraries for code modularization, ensuring consistency and efficiency across projects.
 Deployed and managed custom Jenkins agents for project-specific requirements, ensuring optimal build and deployment environments.
 
-Code Collaboration & Quality Assurance:
+Code Collaboration & Quality Assurance: </br>
 Implemented Git & Bitbucket for version control and SonarQube for continuous code quality inspection.
 
-Artifact Management & Distribution with JFrog:
+Artifact Management & Distribution with JFrog: </br>
 Utilized JFrog for efficient storage, versioning, and distribution of artifacts.
 
-Continuous Learning & Innovation:
+Continuous Learning & Innovation: </br>
 Stayed updated on industry trends, integrating new technologies for enhanced DevOps practices.
 
 
