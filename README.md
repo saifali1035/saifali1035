@@ -23,7 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifali1035&show_icons=true&locale=en&layout=compact" alt="aj7ay" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aj7ay&show_icons=true&locale=en" alt="aj7ay" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifali1035&show_icons=true&locale=en" alt="saifali1035" /></p>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
