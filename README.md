@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saif+Ali+!;" />
 </h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A Passionate DevOps Engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifali1035&label=Profile%20views&color=0e75b6&style=flat" alt="saifali1035" /> </p>
 <p align="left"> <a href="https://twitter.com/saif_ali1035" target="blank"><img src="https://img.shields.io/twitter/follow/saif_ali1035?logo=twitter&style=for-the-badge" alt="saifali1035" /></a> </p>
 
