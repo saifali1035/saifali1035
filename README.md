@@ -20,8 +20,7 @@
 
 - 💼 **Wipro** ( 2018 - 2022 )
 <hr/>
-<p align="left"> 
-<font size="2">
+<p align="left" style="font-size: smaller;"> 
 Comprehensive Linux Expertise: </br>
 Demonstrated mastery in various Linux environments, including AIX, HPUX, RHEL, Ubuntu, and CentOS.
 Applied robust shell scripting techniques for automation and efficiency in diverse projects.
@@ -46,7 +45,6 @@ Utilized JFrog for efficient storage, versioning, and distribution of artifacts.
 
 Continuous Learning & Innovation: </br>
 Stayed updated on industry trends, integrating new technologies for enhanced DevOps practices.
-</font>
 </p>
 
 
