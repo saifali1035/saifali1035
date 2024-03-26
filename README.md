@@ -20,7 +20,7 @@
 
 - 💼 Wipro ( 2018 - 2022 )
 <hr/>
-**Comprehensive Linux Expertise:** <br/>
+Comprehensive Linux Expertise:
 Demonstrated mastery in various Linux environments, including AIX, HPUX, RHEL, Ubuntu, and CentOS.
 Applied robust shell scripting techniques for automation and efficiency in diverse projects.
 
