@@ -5,15 +5,13 @@
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj7ay&label=Profile%20views&color=0e75b6&style=flat" alt="aj7ay" /> </p>
 
-- 🌱 I’m currently working as **DevSecOps Engineer at HYSN**
+- 🌱 I’m currently working as **DevSecOps Engineer at Volkswagen**
 
-- 👯 Youtube channel [Mr cloud book](https://www.youtube.com/@mr.cloudbook)
+- 👯 LinkedIn [Saif Ali](https://www.linkedin.com/in/saif--ali/)
 
-- 🤝 All Youtube classes Notes is here [Youtube Notes](https://github.com/Aj7Ay/youtube_notes.git)
+- 👨‍💻 All of my projects are available at [https://github.com/saifali1035](https://github.com/saifali1035)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aj7Ay](https://github.com/Aj7Ay)
-
-- 📫 How to reach me **postbox.aj99@gmail.com**
+- 📫 How to reach me **saifaliali1035@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
