@@ -5,7 +5,7 @@
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj7ay&label=Profile%20views&color=0e75b6&style=flat" alt="aj7ay" /> </p>
 
-- 🌱 I’m currently working as **DevSecOps Engineer at Volkswagen**
+- 🌱 I’m currently working as **AWS DevOps Engineer at Volkswagen**
 
 - 👯 LinkedIn [Saif Ali](https://www.linkedin.com/in/saif--ali/)
 
