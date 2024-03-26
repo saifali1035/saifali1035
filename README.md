@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/saif_ali1035" target="blank"><img src="https://img.shields.io/twitter/follow/saif_ali1035?logo=twitter&style=for-the-badge" alt="saifali1035" /></a> </p>
 
 
-- 🌱<img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg](https://uploads.vw-mms.de/system/production/images/vwn/030/145/images/7a0d84d3b718c9a621100e43e581278433114c82/DB2019AL01950_web_1160.jpg?1649155356)" alt="rahuldkjain" height="30" width="40" /> I’m currently working as **AWS DevOps Engineer at Volkswagen**
+- 🌱<img align="center" src="https://uploads.vw-mms.de/system/production/images/vwn/030/145/images/7a0d84d3b718c9a621100e43e581278433114c82/DB2019AL01950_web_1160.jpg" alt="rahuldkjain" height="30" width="40" /> I’m currently working as **AWS DevOps Engineer at Volkswagen**
 
 - 👯 LinkedIn [Saif Ali](https://www.linkedin.com/in/saif--ali/)
 
