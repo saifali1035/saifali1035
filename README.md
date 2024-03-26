@@ -14,10 +14,6 @@
 
 - 📫 How to reach me **saifaliali1035@gmail.com**
 
-<br/>
-
-<hr/>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saif_ali1035" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
