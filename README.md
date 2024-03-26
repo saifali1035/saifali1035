@@ -25,7 +25,45 @@
 </p>
 
 <h3 align="left">Previous Organisations:</h3>
+- 💼 **Cognizant** ( 2022 - 2024 )
+<hr/>
+<p align="left" style = "font-size:8px"> 
+Infrastructure Design in AWS:</br>
+Orchestrated Virtual Private Clouds (VPCs), configured Subnets, optimized Auto Scaling Groups (ASG), and managed EC2 instances for scalable and resilient cloud infrastructure.
+Implemented secure outbound internet access with Network Address Translation (NAT) gateways.
 
+Security & Network Design:</br>
+Configured Security Groups and NACLs for robust inbound/outbound traffic control, ensuring a secure environment for EC2 instances.
+Designed and managed IAM roles and users for secure and personalized access to AWS resources.
+
+Kubernetes Orchestration with EKS:</br>
+Specialized in container management within AWS using Amazon Elastic Kubernetes Service (EKS), ensuring efficient deployment and scaling of containerized applications.
+
+Jenkins CI/CD Pipelines:</br>
+Implemented declarative pipelines, utilizing shared libraries for code modularization, ensuring consistency and efficiency across projects.
+Integrated custom Docker images into pipelines for consistent build environments and reproducible builds.
+Deployed and managed custom Jenkins agents for project-specific requirements, ensuring optimal build and deployment environments.
+
+Key AWS Services & Expertise:</br>
+Load Balancing & EC2 Management, Object Storage with S3, Serverless Computing with Lambda.
+
+Code Collaboration & Quality:</br>
+Implemented Git & Bitbucket for version control and SonarQube for continuous code quality inspection.
+
+Artifact Management with JFrog:</br>
+Implemented JFrog for efficient storage, versioning, and distribution of artifacts.
+
+Containerization & Docker Expertise:</br>
+Proficient in crafting Dockerfiles, managing Docker containers, and orchestrating applications for portability and consistency.
+
+Shell Scripting & Linux Mastery:</br>
+Applied robust shell scripting for automation and efficiency in Linux environments.
+
+Ansible Automation:</br>
+Leveraged Ansible for configuration management and automation, ensuring consistent and efficient deployment processes.
+</p>
+</br>
+  
 - 💼 **Wipro** ( 2018 - 2022 )
 <hr/>
 <p align="left" style = "font-size:8px"> 
