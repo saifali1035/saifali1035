@@ -3,6 +3,8 @@
 </h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifali1035&label=Profile%20views&color=0e75b6&style=flat" alt="saifali1035" /> </p>
+<p align="left"> <a href="[https://twitter.com/rahuldkjain](https://twitter.com/saif_ali1035)" target="blank"><img src="https://img.shields.io/twitter/follow/saif_ali1035?logo=twitter&style=for-the-badge" alt="saifali1035" /></a> </p>
+
 
 - 🌱 I’m currently working as **AWS DevOps Engineer at Volkswagen**
 
