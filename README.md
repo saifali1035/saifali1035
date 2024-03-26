@@ -32,9 +32,6 @@
 <hr/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifali1035&show_icons=true&locale=en&layout=compact" alt="aj7ay" /></p>
-<br/><br/>
-
-<hr/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifali1035&show_icons=true&locale=en" alt="saifali1035" /></p>
 <br/><br/>
 
