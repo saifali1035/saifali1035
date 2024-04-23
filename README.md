@@ -26,7 +26,7 @@
 
 <h3 align="left">Previous Organisations:</h3>
 
-- 💼 **Cognizant** ( 2022 - 2024 )
+- 💼 **Cognizant** (2022 - 2024)
 <hr/>
 <p align="left" style = "font-size:8px"> 
 Infrastructure Design in AWS:</br>
@@ -65,7 +65,7 @@ Leveraged Ansible for configuration management and automation, ensuring consiste
 </p>
 </br>
   
-- 💼 **Wipro** ( 2018 - 2022 )
+- 💼 **Wipro** (2018 - 2022)
 <hr/>
 <p align="left" style = "font-size:8px"> 
 Comprehensive Linux Expertise: </br>
