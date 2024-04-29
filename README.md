@@ -116,8 +116,6 @@ Stayed updated on industry trends, integrating new technologies for enhanced Dev
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  #<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  [![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saifali1035&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/saifali1035/github-readme-activity-graph)
-  
+  #<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> 
   <br/><br/><br/>
 </div>
