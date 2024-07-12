@@ -119,3 +119,13 @@ Stayed updated on industry trends, integrating new technologies for enhanced Dev
   #<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> 
   <br/><br/><br/>
 </div>
+
+<!-- last activity section -->
+
+## Activity Graph
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
+</p>
+
+<br>
+
