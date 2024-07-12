@@ -120,12 +120,4 @@ Stayed updated on industry trends, integrating new technologies for enhanced Dev
   <br/><br/><br/>
 </div>
 
-<!-- last activity section -->
-
-## Activity Graph
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
-</p>
-
-<br>
 
