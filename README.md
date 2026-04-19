@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/saif_ali1035" target="blank"><img src="https://img.shields.io/twitter/follow/saif_ali1035?logo=twitter&style=for-the-badge" alt="saifali1035" /></a> </p>
 
 
-- 💼 I’m currently working as **AWS DevOps Engineer at Volkswagen**
+- 💼 I’m currently working as **Senior Platform Engineer at CBA**
 
 - 👯 LinkedIn [Saif Ali](https://www.linkedin.com/in/saif--ali/)
 
