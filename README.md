@@ -5,6 +5,10 @@
 <h3 align="center">Senior Platform Engineer | AWS DevOps | Kubernetes | Terraform | CI/CD | Cloud Automation</h3>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:22C55E&height=3&section=header" alt="divider" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=saifali1035&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <a href="https://twitter.com/saif_ali1035" target="_blank">
     <img src="https://img.shields.io/twitter/follow/saif_ali1035?logo=x&style=for-the-badge" alt="Twitter Follow" />
@@ -15,6 +19,14 @@
   <a href="mailto:saifaliali1035@gmail.com">
     <img src="https://img.shields.io/badge/Email-saifaliali1035%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Containers-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/IaC-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Focus-Platform%20Engineering-22C55E?style=flat-square" alt="Platform Engineering" />
 </p>
 
 ---
@@ -32,6 +44,57 @@ I am a passionate DevOps and Platform Engineer from India, focused on building r
 
 ---
 
+## DevOps Command Center
+
+| Current Mission | Core Strength | Engineering Style |
+| --- | --- | --- |
+| Building reliable cloud platforms | AWS, EKS, Kubernetes, Terraform, CI/CD | Automate first, measure always, improve continuously |
+
+```mermaid
+flowchart LR
+    Code[Code] --> CI[Jenkins CI/CD]
+    CI --> Quality[SonarQube Quality Gate]
+    CI --> Artifacts[JFrog Artifacts]
+    Artifacts --> Image[Docker Image]
+    Image --> EKS[Amazon EKS]
+    EKS --> Apps[Cloud-Native Apps]
+    EKS --> Obs[Observability]
+    IaC[Terraform IaC] --> AWS[AWS Cloud]
+    AWS --> EKS
+    Security[IAM + DevSecOps] --> AWS
+```
+
+<details>
+  <summary><b>Click to see what I am focused on right now</b></summary>
+  <br />
+
+- Building stronger **platform engineering** foundations for developer self-service
+- Improving **Kubernetes and EKS** deployment workflows
+- Practicing **Terraform-first infrastructure design**
+- Strengthening **DevSecOps**, IAM, image security, and policy-driven delivery
+- Learning deeper **observability**, SLOs, OpenTelemetry, Grafana, and Prometheus patterns
+- Keeping cloud platforms cost-aware with practical **FinOps** thinking
+
+</details>
+
+<details>
+  <summary><b>Click to see my DevOps operating model</b></summary>
+  <br />
+
+| Layer | What I Focus On |
+| --- | --- |
+| Source | Git, Bitbucket, branching strategy, pull request flow |
+| Build | Jenkins pipelines, reusable shared libraries, Dockerized build agents |
+| Quality | SonarQube checks, repeatable validation, secure code flow |
+| Artifact | JFrog repositories, versioned artifacts, traceable releases |
+| Deploy | Kubernetes, EKS, manifests, services, ingress, rollout troubleshooting |
+| Operate | Linux, logs, metrics, alerts, reliability improvements |
+| Automate | Terraform, Ansible, Shell scripting, reusable infrastructure patterns |
+
+</details>
+
+---
+
 ## Career Timeline
 
 | Period | Organization | Role / Focus |
@@ -45,12 +108,22 @@ I am a passionate DevOps and Platform Engineer from India, focused on building r
 
 ## Professional Experience
 
+<details open>
+  <summary><b>CBA | Senior Platform Engineer</b></summary>
+  <br />
+
 ### CBA | Senior Platform Engineer
 
 - Working on platform engineering practices that improve developer experience, deployment reliability, and operational efficiency.
 - Supporting cloud-native workloads with automation-first practices across CI/CD, infrastructure, and runtime operations.
 - Building reusable workflows and platform capabilities for engineering teams.
 - Applying modern DevOps practices around reliability, observability, security, and continuous improvement.
+
+</details>
+
+<details open>
+  <summary><b>Volkswagen | Senior AWS DevOps Engineer | 2024 - 2025</b></summary>
+  <br />
 
 ### Volkswagen | Senior AWS DevOps Engineer | 2024 - 2025
 
@@ -60,6 +133,12 @@ I am a passionate DevOps and Platform Engineer from India, focused on building r
 - Containerized application components using Docker and supported Kubernetes-based deployments.
 - Improved infrastructure consistency using automation, scripting, reusable pipeline logic, and environment standardization.
 - Collaborated with development and operations teams to troubleshoot deployment issues, improve release flow, and strengthen cloud reliability.
+
+</details>
+
+<details>
+  <summary><b>Cognizant | AWS DevOps / Cloud Infrastructure | 2022 - 2024</b></summary>
+  <br />
 
 ### Cognizant | AWS DevOps / Cloud Infrastructure | 2022 - 2024
 
@@ -72,6 +151,12 @@ I am a passionate DevOps and Platform Engineer from India, focused on building r
 - Used **Git, Bitbucket, SonarQube, and JFrog** for source control, code quality, and artifact management.
 - Automated repeatable tasks using **Shell scripting, Linux tooling, and Ansible**.
 
+</details>
+
+<details>
+  <summary><b>Wipro | Linux / Infrastructure / DevOps Automation | 2018 - 2022</b></summary>
+  <br />
+
 ### Wipro | Linux / Infrastructure / DevOps Automation | 2018 - 2022
 
 - Worked across Linux and Unix environments including **AIX, HPUX, RHEL, Ubuntu, and CentOS**.
@@ -81,6 +166,8 @@ I am a passionate DevOps and Platform Engineer from India, focused on building r
 - Built Jenkins pipelines and managed CI/CD automation workflows.
 - Used **Git, Bitbucket, SonarQube, and JFrog** for source control, quality checks, and artifact distribution.
 - Focused on reliability, process improvement, and continuous learning across DevOps practices.
+
+</details>
 
 ---
 
@@ -160,6 +247,24 @@ Modern DevOps is moving toward platform engineering, secure automation, intellig
 - Updated Dockerfile to match the actual Node.js runtime model
 - Improved container build flow for a production-style Express app
 
+<details>
+  <summary><b>Click to view project architecture highlights</b></summary>
+  <br />
+
+```mermaid
+flowchart TB
+    User[User Browser] --> Frontend[Nginx Frontend]
+    Frontend --> Backend[Node.js Express API]
+    Backend --> Database[(MySQL Database)]
+    Docker[Docker Compose] --> Frontend
+    Docker --> Backend
+    Docker --> Database
+    Terraform[Terraform] --> EKS[Amazon EKS]
+    K8s[Kubernetes Manifests] --> EKS
+```
+
+</details>
+
 ---
 
 ## What I Bring
@@ -191,10 +296,16 @@ Modern DevOps is moving toward platform engineering, secure automation, intellig
 ## GitHub Stats
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saifali1035&theme=algolia&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
+  <br />
+  <br />
   <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=saifali1035&count_private=true&theme=react&border_radius=10" alt="GitHub streak stats" />
   <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=saifali1035&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub stats" />
   <br />
   <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=saifali1035&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
+  <br />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifali1035&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
 </div>
 
 ---
