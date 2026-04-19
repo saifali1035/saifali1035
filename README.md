@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:0F766E,70:2563EB,100:7C3AED&text=Saif%20Ali&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Senior%20Platform%20Engineer%20%7C%20AWS%20DevOps%20%7C%20Kubernetes%20%7C%20Terraform&descSize=18&descAlignY=58" alt="Saif Ali banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,30:0F766E,65:2563EB,100:7C3AED&text=Saif%20Ali&fontColor=FFFFFF&fontSize=64&fontAlignY=35&desc=Cloud-Native%20Platform%20Engineer%20%7C%20AWS%20DevOps%20%7C%20Kubernetes%20%7C%20Terraform&descSize=19&descAlignY=55&animation=fadeIn" alt="Saif Ali banner" />
 </p>
 
 <h1 align="center">
@@ -29,22 +29,26 @@
 
 ---
 
-## Snapshot
+## Mission Control
+
+<p align="center">
+  <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&center=true&vCenter=true&duration=2500&pause=800&color=22C55E&width=900&lines=%24+terraform+plan+%3A+designing+reliable+cloud+foundations;%24+kubectl+rollout+status+%3A+shipping+with+confidence;%24+jenkins+build+%3A+automating+repeatable+delivery;%24+grafana+dashboard+%3A+watching+reliability+signals" alt="DevOps terminal animation" />
+</p>
 
 <table>
   <tr>
     <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/Platform-Engineering-22C55E?style=for-the-badge" alt="Platform Engineering" />
+      <img src="https://img.shields.io/badge/01-Platform%20Engineering-22C55E?style=for-the-badge" alt="Platform Engineering" />
       <br /><br />
       Developer platforms, reusable workflows, self-service delivery, cloud reliability.
     </td>
     <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/AWS-DevOps-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS DevOps" />
+      <img src="https://img.shields.io/badge/02-AWS%20DevOps-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS DevOps" />
       <br /><br />
       VPC, EC2, IAM, S3, Load Balancers, Auto Scaling, Lambda, EKS.
     </td>
     <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/Kubernetes-Delivery-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Delivery" />
+      <img src="https://img.shields.io/badge/03-Kubernetes%20Delivery-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Delivery" />
       <br /><br />
       Docker, EKS, services, ingress, deployments, rollout troubleshooting.
     </td>
@@ -60,6 +64,12 @@ previous: Volkswagen, Cognizant, Wipro
 core_stack: AWS, EKS, Kubernetes, Docker, Terraform, Jenkins, Linux, Ansible
 focus: Platform Engineering, DevSecOps, Observability, GitOps, FinOps
 ```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Build-reusable%20platform%20patterns-22C55E?style=for-the-badge" alt="Build platform patterns" />
+  <img src="https://img.shields.io/badge/Automate-cloud%20delivery-2563EB?style=for-the-badge" alt="Automate delivery" />
+  <img src="https://img.shields.io/badge/Operate-secure%20systems-7C3AED?style=for-the-badge" alt="Operate secure systems" />
+</p>
 
 ---
 
@@ -158,6 +168,15 @@ flowchart LR
   <img src="https://img.shields.io/badge/Automation-Terraform%20%7C%20Ansible%20%7C%20Shell-7C3AED?style=for-the-badge&logo=terraform&logoColor=white" alt="Automation skills" />
 </p>
 
+<table>
+  <tr>
+    <td align="center" width="25%"><b>Cloud</b><br />AWS, EKS, VPC, IAM, EC2, S3, Lambda</td>
+    <td align="center" width="25%"><b>Delivery</b><br />Jenkins, Docker, JFrog, SonarQube</td>
+    <td align="center" width="25%"><b>Automation</b><br />Terraform, Ansible, Shell, Linux</td>
+    <td align="center" width="25%"><b>Reliability</b><br />Grafana, Prometheus, Logs, Metrics</td>
+  </tr>
+</table>
+
 ---
 
 ## Featured Builds
@@ -226,12 +245,14 @@ flowchart TB
 ## GitHub Pulse
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saifali1035&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifali1035&theme=tokyonight" alt="GitHub profile details" />
   <br /><br />
-  <img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=saifali1035&count_private=true&theme=react&border_radius=10" alt="GitHub streak stats" />
-  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=saifali1035&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub stats" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saifali1035&theme=tokyonight" alt="Repositories per language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saifali1035&theme=tokyonight" alt="Most committed language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saifali1035&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
   <br /><br />
-  <img width="45%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=saifali1035&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
+  <img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=saifali1035&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak stats" />
+  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=saifali1035&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=10" alt="GitHub stats" />
   <br /><br />
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saifali1035&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="GitHub activity graph" />
 </div>
