@@ -1,17 +1,14 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+I'm+Saif+Ali;Senior+Platform+Engineer;AWS+DevOps+%7C+Kubernetes+%7C+Terraform;Building+Cloud-Native+Platforms" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">Senior Platform Engineer | AWS DevOps | Kubernetes | Terraform | CI/CD | Cloud Automation</h3>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:22C55E&height=3&section=header" alt="divider" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:0F766E,70:2563EB,100:7C3AED&text=Saif%20Ali&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Senior%20Platform%20Engineer%20%7C%20AWS%20DevOps%20%7C%20Kubernetes%20%7C%20Terraform&descSize=18&descAlignY=58" alt="Saif Ali banner" />
 </p>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&center=true&vCenter=true&width=900&height=70&duration=3500&lines=I+build+cloud-native+platforms;I+automate+AWS+infrastructure;I+ship+with+Kubernetes%2C+Terraform+and+CI%2FCD;I+turn+operations+into+repeatable+systems" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saifali1035&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <a href="https://twitter.com/saif_ali1035" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/saif_ali1035?logo=x&style=for-the-badge" alt="Twitter Follow" />
+  <a href="https://github.com/saifali1035">
+    <img src="https://img.shields.io/badge/GitHub-saifali1035-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/saif--ali/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Saif%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -19,297 +16,242 @@
   <a href="mailto:saifaliali1035@gmail.com">
     <img src="https://img.shields.io/badge/Email-saifaliali1035%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=saifali1035&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Senior%20Platform%20Engineer-CBA-22C55E?style=flat-square" alt="CBA" />
+  <img src="https://img.shields.io/badge/Senior%20AWS%20DevOps-Volkswagen-2563EB?style=flat-square" alt="Volkswagen" />
   <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Containers-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Runtime-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/IaC-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/CI%2FCD-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Focus-Platform%20Engineering-22C55E?style=flat-square" alt="Platform Engineering" />
 </p>
 
 ---
 
-## About Me
+## Snapshot
 
-I am a passionate DevOps and Platform Engineer from India, focused on building reliable, automated, and scalable cloud platforms.
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/Platform-Engineering-22C55E?style=for-the-badge" alt="Platform Engineering" />
+      <br /><br />
+      Developer platforms, reusable workflows, self-service delivery, cloud reliability.
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/AWS-DevOps-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS DevOps" />
+      <br /><br />
+      VPC, EC2, IAM, S3, Load Balancers, Auto Scaling, Lambda, EKS.
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/Kubernetes-Delivery-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Delivery" />
+      <br /><br />
+      Docker, EKS, services, ingress, deployments, rollout troubleshooting.
+    </td>
+  </tr>
+</table>
 
-- Currently working as **Senior Platform Engineer at CBA**
-- Previously worked with **Volkswagen, Cognizant, and Wipro**
-- Strong hands-on experience across **AWS, EKS, Kubernetes, Docker, Terraform, Jenkins, Linux, Shell Scripting, Ansible, SonarQube, JFrog, and Git**
-- Comfortable designing cloud infrastructure, automating deployments, managing CI/CD pipelines, and improving platform reliability
-- Projects: [github.com/saifali1035](https://github.com/saifali1035)
-- Reach me: **saifaliali1035@gmail.com**
+```yaml
+name: Saif Ali
+role: Senior Platform Engineer
+location: India
+current: CBA
+previous: Volkswagen, Cognizant, Wipro
+core_stack: AWS, EKS, Kubernetes, Docker, Terraform, Jenkins, Linux, Ansible
+focus: Platform Engineering, DevSecOps, Observability, GitOps, FinOps
+```
 
 ---
 
-## DevOps Command Center
-
-| Current Mission | Core Strength | Engineering Style |
-| --- | --- | --- |
-| Building reliable cloud platforms | AWS, EKS, Kubernetes, Terraform, CI/CD | Automate first, measure always, improve continuously |
+## Cloud-Native Flow
 
 ```mermaid
 flowchart LR
-    Code[Code] --> CI[Jenkins CI/CD]
-    CI --> Quality[SonarQube Quality Gate]
-    CI --> Artifacts[JFrog Artifacts]
-    Artifacts --> Image[Docker Image]
-    Image --> EKS[Amazon EKS]
-    EKS --> Apps[Cloud-Native Apps]
-    EKS --> Obs[Observability]
-    IaC[Terraform IaC] --> AWS[AWS Cloud]
+    Dev[Developer] --> Git[Git / Bitbucket]
+    Git --> Jenkins[Jenkins Pipeline]
+    Jenkins --> Scan[SonarQube Quality Gate]
+    Jenkins --> Artifact[JFrog Artifact]
+    Artifact --> Docker[Docker Image]
+    Docker --> EKS[Amazon EKS]
+    Terraform[Terraform IaC] --> AWS[AWS Cloud]
     AWS --> EKS
-    Security[IAM + DevSecOps] --> AWS
+    EKS --> Observe[Grafana / Metrics / Logs]
+    Security[IAM / DevSecOps] --> AWS
 ```
 
 <details>
-  <summary><b>Click to see what I am focused on right now</b></summary>
+  <summary><b>Open my platform engineering playbook</b></summary>
   <br />
 
-- Building stronger **platform engineering** foundations for developer self-service
-- Improving **Kubernetes and EKS** deployment workflows
-- Practicing **Terraform-first infrastructure design**
-- Strengthening **DevSecOps**, IAM, image security, and policy-driven delivery
-- Learning deeper **observability**, SLOs, OpenTelemetry, Grafana, and Prometheus patterns
-- Keeping cloud platforms cost-aware with practical **FinOps** thinking
-
-</details>
-
-<details>
-  <summary><b>Click to see my DevOps operating model</b></summary>
-  <br />
-
-| Layer | What I Focus On |
+| Layer | What I Build / Improve |
 | --- | --- |
-| Source | Git, Bitbucket, branching strategy, pull request flow |
-| Build | Jenkins pipelines, reusable shared libraries, Dockerized build agents |
-| Quality | SonarQube checks, repeatable validation, secure code flow |
-| Artifact | JFrog repositories, versioned artifacts, traceable releases |
-| Deploy | Kubernetes, EKS, manifests, services, ingress, rollout troubleshooting |
-| Operate | Linux, logs, metrics, alerts, reliability improvements |
-| Automate | Terraform, Ansible, Shell scripting, reusable infrastructure patterns |
+| Cloud Foundation | AWS networking, IAM, compute, storage, scaling |
+| Delivery | Jenkins pipelines, shared libraries, reusable build patterns |
+| Runtime | Docker, Kubernetes, Amazon EKS, Nginx, rollout support |
+| Quality | SonarQube checks, versioned artifacts, controlled releases |
+| Automation | Terraform, Ansible, Shell scripting, repeatable operations |
+| Reliability | Logs, metrics, alerts, troubleshooting, platform hardening |
+| Modern Focus | GitOps, DevSecOps, Observability, FinOps, AI-ready operations |
 
 </details>
 
 ---
 
-## Career Timeline
+## Career Map
 
-| Period | Organization | Role / Focus |
-| --- | --- | --- |
-| 2025 - Present | **CBA** | Senior Platform Engineer |
-| 2024 - 2025 | **Volkswagen** | Senior AWS DevOps Engineer |
-| 2022 - 2024 | **Cognizant** | AWS DevOps / Cloud Infrastructure |
-| 2018 - 2022 | **Wipro** | Linux, Infrastructure, DevOps Automation |
-
----
-
-## Professional Experience
+<table>
+  <tr>
+    <td><b>2025 - Present</b></td>
+    <td><b>CBA</b></td>
+    <td>Senior Platform Engineer</td>
+  </tr>
+  <tr>
+    <td><b>2024 - 2025</b></td>
+    <td><b>Volkswagen</b></td>
+    <td>Senior AWS DevOps Engineer</td>
+  </tr>
+  <tr>
+    <td><b>2022 - 2024</b></td>
+    <td><b>Cognizant</b></td>
+    <td>AWS DevOps / Cloud Infrastructure</td>
+  </tr>
+  <tr>
+    <td><b>2018 - 2022</b></td>
+    <td><b>Wipro</b></td>
+    <td>Linux, Infrastructure, DevOps Automation</td>
+  </tr>
+</table>
 
 <details open>
-  <summary><b>CBA | Senior Platform Engineer</b></summary>
+  <summary><b>CBA and Volkswagen highlights</b></summary>
   <br />
 
-### CBA | Senior Platform Engineer
-
-- Working on platform engineering practices that improve developer experience, deployment reliability, and operational efficiency.
-- Supporting cloud-native workloads with automation-first practices across CI/CD, infrastructure, and runtime operations.
-- Building reusable workflows and platform capabilities for engineering teams.
-- Applying modern DevOps practices around reliability, observability, security, and continuous improvement.
-
-</details>
-
-<details open>
-  <summary><b>Volkswagen | Senior AWS DevOps Engineer | 2024 - 2025</b></summary>
-  <br />
-
-### Volkswagen | Senior AWS DevOps Engineer | 2024 - 2025
-
-- Designed, automated, and supported AWS cloud infrastructure for scalable and reliable application environments.
-- Worked with core AWS services including **VPC, EC2, IAM, S3, Load Balancers, Auto Scaling, Lambda, and EKS**.
-- Built and maintained CI/CD pipelines for application build, test, artifact, and deployment workflows.
-- Containerized application components using Docker and supported Kubernetes-based deployments.
-- Improved infrastructure consistency using automation, scripting, reusable pipeline logic, and environment standardization.
-- Collaborated with development and operations teams to troubleshoot deployment issues, improve release flow, and strengthen cloud reliability.
+| Organization | Highlights |
+| --- | --- |
+| CBA | Platform engineering, developer experience, cloud-native workloads, reusable workflows, operational reliability |
+| Volkswagen | AWS infrastructure, EKS, Docker, CI/CD pipelines, release troubleshooting, automation and standardization |
 
 </details>
 
 <details>
-  <summary><b>Cognizant | AWS DevOps / Cloud Infrastructure | 2022 - 2024</b></summary>
+  <summary><b>Cognizant and Wipro experience</b></summary>
   <br />
 
-### Cognizant | AWS DevOps / Cloud Infrastructure | 2022 - 2024
-
-- Designed AWS infrastructure using **VPCs, subnets, NAT gateways, security groups, NACLs, EC2, Auto Scaling Groups, S3, Lambda, and Load Balancers**.
-- Managed secure access patterns with **IAM users, roles, and policies**.
-- Specialized in container management and orchestration using **Amazon EKS**.
-- Built Jenkins declarative pipelines using shared libraries for reusable and maintainable CI/CD workflows.
-- Integrated custom Docker images into Jenkins pipelines for consistent and reproducible builds.
-- Managed project-specific Jenkins agents and deployment environments.
-- Used **Git, Bitbucket, SonarQube, and JFrog** for source control, code quality, and artifact management.
-- Automated repeatable tasks using **Shell scripting, Linux tooling, and Ansible**.
-
-</details>
-
-<details>
-  <summary><b>Wipro | Linux / Infrastructure / DevOps Automation | 2018 - 2022</b></summary>
-  <br />
-
-### Wipro | Linux / Infrastructure / DevOps Automation | 2018 - 2022
-
-- Worked across Linux and Unix environments including **AIX, HPUX, RHEL, Ubuntu, and CentOS**.
-- Automated operational tasks using Shell scripting and Linux administration practices.
-- Administered and supported **DB2 and Oracle** database environments.
-- Supported AWS infrastructure components including **VPC, EC2, S3, Load Balancing, NAT gateways, Auto Scaling, and Lambda**.
-- Built Jenkins pipelines and managed CI/CD automation workflows.
-- Used **Git, Bitbucket, SonarQube, and JFrog** for source control, quality checks, and artifact distribution.
-- Focused on reliability, process improvement, and continuous learning across DevOps practices.
+| Organization | Highlights |
+| --- | --- |
+| Cognizant | AWS VPC, subnets, NAT, Security Groups, NACLs, EC2, ASG, S3, Lambda, EKS, Jenkins, SonarQube, JFrog, Ansible |
+| Wipro | AIX, HPUX, RHEL, Ubuntu, CentOS, Shell scripting, DB2, Oracle, AWS infrastructure, Jenkins, Git, Bitbucket |
 
 </details>
 
 ---
 
-## Market-Ready DevOps Focus
+## Tech Arsenal
 
-Modern DevOps is moving toward platform engineering, secure automation, intelligent operations, and cloud cost awareness. These are the areas I actively focus on:
-
-- **Platform Engineering:** Internal developer platforms, reusable templates, self-service workflows, golden paths
-- **Cloud Native:** Kubernetes, Amazon EKS, containerized workloads, service discovery, ingress, scaling
-- **GitOps:** Argo CD / Flux-style deployment models, declarative environments, pull-based delivery
-- **Infrastructure as Code:** Terraform, reusable modules, environment consistency, drift reduction
-- **DevSecOps:** IAM hardening, image scanning, policy as code, secrets management, secure CI/CD
-- **Observability:** Prometheus, Grafana, logs, metrics, alerts, SLO-focused monitoring, OpenTelemetry practices
-- **FinOps:** Cloud cost visibility, right-sizing, scaling policies, waste reduction
-- **AI-Ready Operations:** Automation, intelligent troubleshooting, cloud workflows that support modern AI-enabled delivery
-
----
-
-## Tech Stack
-
-### Cloud and Platform
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white" alt="Amazon EKS" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,jenkins,linux,bash,git,github,bitbucket,nginx,nodejs,python,java,mysql,grafana,prometheus&perline=9" alt="Tech stack icons" />
 </p>
 
-### Infrastructure and Automation
-
-<p>
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-### CI/CD and DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
-  <img src="https://img.shields.io/badge/JFrog-41BF47?style=for-the-badge&logo=jfrog&logoColor=white" alt="JFrog" />
-</p>
-
-### Databases and Development
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="DB2" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-EKS%20%7C%20EC2%20%7C%20S3%20%7C%20IAM%20%7C%20VPC-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS skills" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Jenkins%20%7C%20SonarQube%20%7C%20JFrog-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="CI/CD skills" />
+  <img src="https://img.shields.io/badge/Automation-Terraform%20%7C%20Ansible%20%7C%20Shell-7C3AED?style=for-the-badge&logo=terraform&logoColor=white" alt="Automation skills" />
 </p>
 
 ---
 
-## Featured Work
+## Featured Builds
 
-### Three-Tier Application on Docker and Kubernetes
-
-- Built a three-tier app with **Nginx frontend, Node.js/Express backend, and MySQL database**
-- Containerized all services with Docker
-- Added Kubernetes manifests for frontend, backend, database services, deployments, and ingress
-- Created Terraform infrastructure for **Amazon EKS in Mumbai**
-- Practiced production-style concepts including service discovery, container networking, persistent database setup, and cloud deployment structure
-
-### Docker Getting Started Application
-
-- Worked with a Node.js application serving static frontend assets and API routes
-- Fixed package compatibility issues around ESM/CommonJS dependencies
-- Updated Dockerfile to match the actual Node.js runtime model
-- Improved container build flow for a production-style Express app
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Three-Tier App on Docker and Kubernetes</h3>
+      <p>Nginx frontend, Node.js/Express backend, MySQL database, Docker Compose, Kubernetes manifests, and Terraform-backed EKS infrastructure.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Docker Getting Started App</h3>
+      <p>Node.js app cleanup, ESM/CommonJS package fix, production Dockerfile alignment, and container runtime improvements.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <details>
-  <summary><b>Click to view project architecture highlights</b></summary>
+  <summary><b>Open project architecture</b></summary>
   <br />
 
 ```mermaid
 flowchart TB
-    User[User Browser] --> Frontend[Nginx Frontend]
-    Frontend --> Backend[Node.js Express API]
-    Backend --> Database[(MySQL Database)]
-    Docker[Docker Compose] --> Frontend
-    Docker --> Backend
-    Docker --> Database
-    Terraform[Terraform] --> EKS[Amazon EKS]
-    K8s[Kubernetes Manifests] --> EKS
+    Browser[Browser] --> Frontend[Nginx Frontend]
+    Frontend --> API[Node.js Express API]
+    API --> DB[(MySQL)]
+    Compose[Docker Compose] --> Frontend
+    Compose --> API
+    Compose --> DB
+    K8s[Kubernetes Manifests] --> EKS[Amazon EKS]
+    TF[Terraform] --> EKS
 ```
 
 </details>
 
 ---
 
-## What I Bring
+## Market Signal
 
-- Strong troubleshooting mindset across application, infrastructure, CI/CD, and runtime layers
-- Ability to connect development workflows with platform reliability
-- Hands-on cloud experience with AWS and Kubernetes-based deployments
-- Automation-first approach using scripts, pipelines, IaC, and reusable patterns
-- Practical understanding of enterprise environments, access control, release flow, and operational support
+<table>
+  <tr>
+    <td align="center"><b>Platform Engineering</b><br />Internal platforms, golden paths, reusable workflows</td>
+    <td align="center"><b>DevSecOps</b><br />IAM, image security, quality gates, secure delivery</td>
+    <td align="center"><b>Observability</b><br />Metrics, logs, alerts, Grafana, Prometheus, OpenTelemetry</td>
+  </tr>
+  <tr>
+    <td align="center"><b>GitOps</b><br />Declarative delivery and environment consistency</td>
+    <td align="center"><b>FinOps</b><br />Right-sizing, scaling, cost visibility, waste reduction</td>
+    <td align="center"><b>AI-Ready Ops</b><br />Automation-friendly cloud workflows and smarter troubleshooting</td>
+  </tr>
+</table>
 
 ---
 
-## Connect With Me
+## GitHub Pulse
 
-<p align="left">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saifali1035&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+  <br /><br />
+  <img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=saifali1035&count_private=true&theme=react&border_radius=10" alt="GitHub streak stats" />
+  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=saifali1035&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub stats" />
+  <br /><br />
+  <img width="45%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=saifali1035&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
+  <br /><br />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saifali1035&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="GitHub activity graph" />
+</div>
+
+---
+
+## Connect
+
+<p align="center">
   <a href="https://www.linkedin.com/in/saif--ali/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Saif%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/_.saif.ali_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-_.saif.ali_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Let%27s%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:saifaliali1035@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-saifaliali1035%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/_.saif.ali_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saifali1035&theme=algolia&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
-  <br />
-  <br />
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=saifali1035&count_private=true&theme=react&border_radius=10" alt="GitHub streak stats" />
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=saifali1035&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub stats" />
-  <br />
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=saifali1035&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
-  <br />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifali1035&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
-</div>
-
----
-
-<div align="center">
-  <strong>Cloud is not just infrastructure. It is reliability, automation, security, and developer speed working together.</strong>
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:2563EB,100:0F766E" alt="footer wave" />
+</p>
